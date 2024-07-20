@@ -17,7 +17,7 @@ function App() {
         <Route path="/contact" element={<ContactUS />} />
         <Route path="/product" element={<Product />} />
         </Routes> 
-        {/* <Footer/> */}
+        <Footer/>
     </React.Fragment>
   )
 }
